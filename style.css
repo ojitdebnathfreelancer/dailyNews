@@ -1,0 +1,41 @@
+body{
+    background-color: #d9dadb;
+}
+
+header .head{
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+
+header .news-name{
+    color: #8904fc;
+    text-decoration: none;
+}
+
+header .blog-link{
+    color: #696c6c;
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header .blog-link:hover{
+    color: #8904fc;
+}
+/* header css ends  */
+
+.nav-link{
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: #3b3bd0;
+    background-color: #d7ccf8;
+    border-radius: 5px;
+}
+
+.arrow:hover{
+    cursor: pointer;
+    color: #8904fc;
+}
